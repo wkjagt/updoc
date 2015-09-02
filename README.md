@@ -3,4 +3,4 @@ Up your documentation
 
 ## 1. What's UpDoc?
 
-Nothing much, how about you? :troll:
+[See the doc](https://github.com/wkjagt/updoc/blob/master/doc.md)
