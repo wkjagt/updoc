@@ -1,6 +1,15 @@
-# UpDoc
+# updoc
 Up your documentation
 
-## 1. What's UpDoc?
+UpDoc is a documentation tool that analyzes your code and generates human-readable documentation, complete with code examples.
 
-[See the doc](https://github.com/wkjagt/updoc/blob/master/doc.md)
+## Usage
+```
+$ ehhhhh, what's up, doc?
+Generating docs...
+...
+...
+...
+...
+That's all, folks!
+```
