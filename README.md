@@ -1,4 +1,4 @@
-# updoc
+# UpDoc
 Up your documentation
 
 ## 1. What's UpDoc?
